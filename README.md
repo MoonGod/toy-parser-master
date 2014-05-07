@@ -164,3 +164,9 @@ we can even *disassemble* that *compiled* code and have a look at it:
     NIL
 
 Can your programming language of choice make it that easy?
+
+
+add some test for me.
+
+
+
