@@ -15,6 +15,7 @@
 
 ;;;; add comment
 
+;;;; add comment two
 ;;; now, let's invent some "syntax" for the dataset and program:
 (defvar *colors-program*
   "color red   +red white    +green yellow  +blue magenta
